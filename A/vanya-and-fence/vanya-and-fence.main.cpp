@@ -1,8 +1,5 @@
 #include "src/vanya-and-fence.h"
 
-#include <iostream>
-using namespace std;
-
 int main() {
   int n, h;
   cin >> n >> h;
